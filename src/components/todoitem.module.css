@@ -1,0 +1,29 @@
+.item {
+  width: 500px;
+  color: black;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.itemName {
+  font-weight: bold;
+  padding: 20px;
+}
+.hr {
+  border: 1px solid #d8d8d8;
+}
+
+.delbtn {
+  float: right;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: orange;
+  color: white;
+  margin-top: -5px;
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+}
